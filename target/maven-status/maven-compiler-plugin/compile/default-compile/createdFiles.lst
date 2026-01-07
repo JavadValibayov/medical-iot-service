@@ -1,0 +1,4 @@
+com/health/iot/VitalSignData.class
+com/health/iot/IotApplication.class
+com/health/iot/VitalSignsService.class
+com/health/iot/VitalSignsController.class
